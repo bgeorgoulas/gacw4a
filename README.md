@@ -1,7 +1,10 @@
 # Getting and Cleaning Data / Week 4 Assignment
 
 Week 4 Assignment for the course is the creation of an R script called run_analysis.R. The script performs the following actions:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 082eccba90feec7601a679ef085b787d0d315bb3
 - Downloads the dataset (if it does not already exist in the working directory) and unzips it (if it's still zipped)
 - Loads the activity and feature files into memory
 - Loads the train and test datasets and keeps the mean and standard deviation columns.
