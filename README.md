@@ -8,3 +8,5 @@ Week 4 Assignment for the course is the creation of an R script called run_analy
 - Loads the activity and subject data for each dataset, and merges them with the dataset
 - Converts the activity and subject columns into factors
 - Creates a tidy dataset that consists of the average value of each variable for each subject and activity pair. The end result is written in a file called results.txt
+
+More details can be found in the <a href=https://github.com/bgeorgoulas/gacw4a/blob/master/CodeBook.md>CodeBook</a>
