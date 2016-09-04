@@ -16,14 +16,14 @@ The end result is 30 unique subjects with 6 unique activities for each subject s
 # Input files
 The files that were used in this project are the following:
 
-'README.txt' : Basic information on the experiment
-'features_info.txt': Information on the fature variables.
-'features.txt': List of features.
-'activity_labels.txt': Activity name and labelling.
-'train/X_train.txt': Training dataset.
-'train/y_train.txt': Training labels.
-'test/X_test.txt': Test dataset.
-'test/y_test.txt': Test labels.
+- 'README.txt' : Basic information on the experiment
+- 'features_info.txt': Information on the fature variables.
+- 'features.txt': List of features.
+- 'activity_labels.txt': Activity name and labelling.
+- 'train/X_train.txt': Training dataset.
+- 'train/y_train.txt': Training labels.
+- 'test/X_test.txt': Test dataset.
+- 'test/y_test.txt': Test labels.
 
 # Measurement variables:
 
